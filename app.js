@@ -20,7 +20,7 @@ const usernameInput = document.querySelector("#username");
 const passwordInput = document.querySelector("#password");
 
 usernameInput.value = "Ahmet";
-passwordInput.value = "R-2162";
+passwordInput.value = "R2162";
 passwordInput.type = "text";
 
 usernameInput.disabled = true;
