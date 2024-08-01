@@ -14,6 +14,7 @@ navItemElement.style.display = "flex";
 navItemElement.style.justifyContent = "center";
 navItemElement.style.gap = "1rem";
 navItemElement.style.listStyle = "none";
+0
 
 // part4
 const usernameInput = document.querySelector("#username");
@@ -34,7 +35,7 @@ btnElement.style.padding = "10px 20px";
 btnElement.style.borderRadius = "10px";
 btnElement.style.cursor = "pointer";
 btnElement.style.border = "none";
-btnElement.textContent = "Giriş Yap";
+btnElement.textContent = "Giriş-Yap";
 
 // part6
 const projectsElement = document.getElementById("projects");
