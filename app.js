@@ -35,7 +35,7 @@ btnElement.style.padding = "10px 20px";
 btnElement.style.borderRadius = "10px";
 btnElement.style.cursor = "pointer";
 btnElement.style.border = "none";
-btnElement.textContent = "Giriş Yapınız";
+btnElement.textContent = "Giriş Yapın";
 
 // part6
 const projectsElement = document.getElementById("projects");
