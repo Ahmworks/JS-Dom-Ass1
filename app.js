@@ -35,7 +35,7 @@ btnElement.style.padding = "10px 20px";
 btnElement.style.borderRadius = "10px";
 btnElement.style.cursor = "pointer";
 btnElement.style.border = "none";
-btnElement.textContent = "Giriş-Yap";
+btnElement.textContent = "Giriş Yap";
 
 // part6
 const projectsElement = document.getElementById("projects");
